@@ -28,7 +28,7 @@ let package = Package(
 
         .binaryTarget(
             name: "ShareThatTo",
-            url: "https://github.com/sharethatto/sharethatto/raw/3772ece5f9787ebe6cec131b0f5c50781e66a1c4/Frameworks/ShareThatTo.zip",
-            checksum: "855ce2c8ed87bbd5713966b2b13fad89f63d2142285eed650b8ae4a59fe42417"),
+            url: "https://github.com/sharethatto/sharethatto/raw/9bc7f55bda5f8843b700f4202505f16307314f4c/Frameworks/ShareThatTo.zip",
+            checksum: "f565c826afcac57193d9f4c3d4a5de88ef748c01fb7961039007851f0e2beba1")
     ]
 )
