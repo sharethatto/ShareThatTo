@@ -1,1 +1,3 @@
-module ShareThatToAssets {} 
+import Foundation
+
+struct ShareThatToAssets {}
